@@ -1,13 +1,7 @@
-# Problem Statement
+# Solution Statement
 
-You are given a scene with all the required assets for creating TileMaps. Try to make 3 different levels with a variety of Tile sets to make each level look unique.
+This is the Solution for the given problem in Unity. I would suggest you to go through the Problem-Statement branch first if you haven't already.
 
-You will find the instructional course for this project in this github repo below, please click the url:
+Once you have tried out for the solution yourself, then you can take a look in this branch for the alternative solution. 
 
-[Github Course Repository](https://github.com/outscal/Tile-Maps-Instructions.git)
-
-Use the course to think of the requirements for implementing the Dash feature in this readymade. Then you can create a new scene copying the existing one and try the implementation.
-
-The Solution is provided in the Solution-Statement branch of this repository. I suggest you to try for the solution yourself first, then you can take a look at the solution.
-
-![](https://media.giphy.com/media/hNGPQK5eGDzTW/giphy.gif)
+![](https://media.giphy.com/media/6ul9g1rMhfLH2/giphy.gif)
