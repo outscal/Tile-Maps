@@ -1,6 +1,6 @@
 # Problem Statement
 
-You are given a scene with all the required assets with a readymade scene.
+You are given a scene with all the required assets for creating TileMaps. Try to make 3 different levels with a variety of Tile sets to make each level look unique.
 
 You will find the instructional course for this project in this github repo below, please click the url:
 
